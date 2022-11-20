@@ -1,3 +1,8 @@
+# Aplicação do projeto NTF
+
+A aplicação foi finalizada no Vercel onde o projeto esta disponivel para vizualização.
+(https://ntf-l2.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
