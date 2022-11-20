@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@600&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+html {
+  background-color: #060714;
+}
+
+:root {
+  /* fonts */
+  --body-normal-14px1: Inter;
+  --h1: Sora;
+
+  /* font sizes */
+  --body-normal-14px1-size: 0.729vw;
+  --overline-size: 0.781vw;
+  --h71-size: 0.833vw;
+  --h61-size: 1.042vw;
+  --body-large-24px-size: 1.250vw;
+  --h4-size: 1.250vw;
+  --h2-size: 2.500vw;
+  --h1-size: 3.333vw;
+  --display-120px-size: 6.250vw;
+
+  /* Colors */
+  --on-white-grey-1001: #7780a1;
+  --on-white-dark-90: #262840;
+  --rest-white1: #fff;
+  --primary-purple-light-100: #514cff;
+  --primary-purple-light-15: rgba(81, 76, 255, 0.15);
+
+  /* Gaps */
+  --gap-0: 0vw;
+  --gap-sm: 0.208vw;
+  --gap-md: 0.417vw;
+  --gap-lg: 0.833vw;
+
+  /* Paddings */
+  --padding-xs: 0.417vw;
+  --padding-sm: 0.729vw;
+  --padding-md: 0.833vw;
+  --padding-lg: 1.250vw;
+
+  /* border radiuses */
+  --br-sm: 0.208vw;
+  --br-md: 0.625vw;
+  --br-lg: 1.042vw;
+}
