@@ -1,7 +1,36 @@
-# Aplicação do projeto NTF
+# O exercício 1 Para executar
+Primeiro verifique no bash  se o python está instalado:
+* python --version
+* Python 3.9.12
+Segundo, execute o arquivo main.py:
+python main.py
+Informe a largura e comprimento do ambiente ex: 5 5, na próxima linha informe a seguência dos passos ex: FDFEFDFEFDFEFDF, pode ser inserido mais pares de dados ou pressionar enter 2x para executar.
+
+
+Informe os dados de entrada para o aspirador inteligente.
+    Os dados são compostos por um par de linha conforme exemplo:
+                                                            +-----------------+
+    Linha 1 informe a largura e comprimento do ambiente  => | 5 5             |
+                                                            +-----------------+
+    Linha 2 informe a seguência dos passos               => | FDFEFDFEFDFEFDF |
+                                                            +-----------------+
+    Você pode informar quantos ambientes desejar.
+
+# Aplicação do projeto NTF (exercício 2)
 
 A aplicação foi finalizada no Vercel onde o projeto esta disponivel para vizualização.
 (https://ntf-l2.vercel.app/)
+
+# O exercício 3 foi feito em PostgreSQL.
+Com o seguinte resultado.
+
+resultado:
+
+    NOME                    DIA_MES     VALOR DA PARCELA
+1	Cristian Ghyprievy	    19	        300
+2	Joana Cabel	            25	        150
+3	John Serial	            05          550
+
 
 # Getting Started with Create React App
 
